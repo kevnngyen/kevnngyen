@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Keven Nguyen
 
-- 🔭 I'm currently look for an internship for Winter 2026!
+- 🔭 Incoming SWE intern @dayforce again :)
 - 🌱 My previous internship was @dayforce and  @ sports media, betting and casino company theScore
 - 📫 Feel Free to connect with me kevenngyen@gmail.com, kevin801@my.yorku.ca, or on [linkedin](https://www.linkedin.com/in/kngyen/)
 - Here's also my contributions @dayforce
